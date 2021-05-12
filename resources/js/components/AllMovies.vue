@@ -1,6 +1,6 @@
 <template>
     <div>
-        <h2 class="text-center">Products List</h2>
+        <h2 class="text-center">List</h2>
 
         <table class="table">
             <thead>
